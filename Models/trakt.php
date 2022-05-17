@@ -6,8 +6,8 @@ session_start();
 define('TRAKT_URL', 'https://api.trakt.tv');
 
 $TRAKT = array(
-  'client_id' => 'd6bd42c638c8b6e04f4078f84cc2f2717ae43f813de38e34293be8c99044d18e',
-  'client_secret' => '9b7355f665c7505193199b1b124d6a9248b850a367f064deb9f15f2e232c9a47',
+  'client_id' => 'paste your client id here',
+  'client_secret' => 'Your client secret here',
   'redirect_uri' => 'http://localhost:8000/index.php',
   'state' => 'nmnmjkjkpmp92m'
 );
